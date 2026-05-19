@@ -1,4 +1,4 @@
-name: Apple
+name: Apple شركة 
 code: APL
 category: international
 sector: Technology · Consumer Electronics
