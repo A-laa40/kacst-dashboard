@@ -1,4 +1,4 @@
-name: Apple شركة 
+name: Apple 22
 code: APL
 category: international
 sector: Technology · Consumer Electronics
