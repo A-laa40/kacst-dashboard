@@ -36,6 +36,7 @@ support: —
 ## Progress
 - Met Omar Alshabaan in 2023 to explore collaboration
 - Ongoing MISA discussions since 2022
+- Define areas of collaboration and schedule next engagement
 
 ## Next Steps
 - Define areas of collaboration and schedule next engagement
